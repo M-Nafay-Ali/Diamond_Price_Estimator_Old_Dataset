@@ -37,6 +37,8 @@ The machine learning core behind this app follows a rigorous pipeline designed d
 **Feel free to reach out for collaborations, queries, or feature extensions regarding this deployment!**
 **Developer Name:-** M.Nafay Ali
 **LinkedIn:-** [https://www.linkedin.com/in/mohammed-nafay-ali-16519138a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+
+
 **Email Contact:-** englandengland271@gmail.com
 
 **Developed under luxury constraints and advanced pipeline optimization routines.**
